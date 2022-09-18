@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {
+function Apps() {
   return (
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid">
